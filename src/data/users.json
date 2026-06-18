@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "user-001",
+      "username": "Player1",
+      "balance": 1000.00,
+      "totalWagered": 0,
+      "totalWon": 0,
+      "joinedAt": "2024-01-01T00:00:00Z"
+    }
+  ],
+  "chatMessages": [
+    {
+      "id": "1",
+      "userId": "system",
+      "username": "System",
+      "message": "Welcome to Casino! Good luck! 🍀",
+      "timestamp": "2024-01-01T00:00:00Z",
+      "type": "system"
+    }
+  ],
+  "gameHistory": [],
+  "crashGameState": {
+    "currentMultiplier": 1.00,
+    "isRunning": false,
+    "crashPoint": 1.00,
+    "hash": "",
+    "seed": "",
+    "players": [],
+    "roundId": 0
+  }
+}
